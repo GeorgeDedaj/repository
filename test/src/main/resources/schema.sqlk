@@ -1,0 +1,5 @@
+CREATE TABLE testdb.User (
+    USER_ID int,
+    FIRST_NAME varchar(255),
+    LAST_NAME varchar(255),
+);
